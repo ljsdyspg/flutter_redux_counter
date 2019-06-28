@@ -1,6 +1,6 @@
 # flutter_redux_counter
 
-A new Flutter application.
+基于Redux的计数器 +1 -1
 
 ## Getting Started
 
